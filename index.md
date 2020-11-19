@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Accessibility Test using pa11y & pa11y-ci
 
-You can use the [editor on GitHub](https://github.com/sowmyasridharamurthy/Accessibility-Pa11yCI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Accessibility test is one of the important non-functional tests to be performed on UI. Designing and developing an inclusive UI should be taken as bottom line mantra for all organizations.Its a known fact that with better reach and visibility the products or services can have a better reach. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Automating the accessibility tests reduces massive manual effort, having said that no tool would provide 100% scan against the WCAG accessibility standards. we should just try to mix and match different tools to achieve atleast 40-50% of coverage. So Manual effort is inevitable, what we are trying to deal here is reduing the rest 50% effort. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pa11y and Pa11y is one of the great tool to use for accessibility tests. This is a small project using a random url for tests, try to replace the URL's with the ones of your interest.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Pre-requisite
 
-- Bulleted
-- List
+execute: NPM i
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Further References
+- https://github.com/pa11y/
+- https://github.com/pa11y/pa11y-ci
 
-[Link](url) and ![Image](src)
+
+# Test commands
+- npm run pa11y
+- npm run pa11y-ci
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sowmyasridharamurthy/Accessibility-Pa11yCI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
