@@ -1,0 +1,27 @@
+{
+  "defaults": {
+     "standard": "WCAG2AA",
+    "timeout": 20000
+  },
+  "urls": [
+    {
+      "url": "https://www.owasp.org/",
+      "screenCapture": "reports/homePage.png"
+    },
+    {
+      "url": "https://owasp.org/www-project-juice-shop/",
+      "actions": [
+                "click element #screenshots-link"
+                ],
+      "screenCapture": "reports/Juiceshop.png"
+    },
+     {
+      "url": "https://owasp.org/www-project-juice-shop/",
+      "actions": [
+                "click element #news-link"
+                ],
+      "screenCapture": "reports/news.png"
+    }
+  ]
+}
+    

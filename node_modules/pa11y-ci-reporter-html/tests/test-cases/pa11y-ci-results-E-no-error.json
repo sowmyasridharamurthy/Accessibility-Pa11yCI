@@ -1,0 +1,11 @@
+{
+    "total": 4,
+    "passes": 4,
+    "errors": 0,
+    "results": {
+        "https://www.w3.org/WAI/demos/bad/after/home.html": [],
+        "https://www.w3.org/WAI/demos/bad/after/news.html": [],
+        "https://www.w3.org/WAI/demos/bad/after/tickets.html": [],
+        "https://www.w3.org/WAI/demos/bad/after/survey.html": []
+    }
+}
