@@ -1,9 +1,0 @@
-{
-	"urls": [
-		"http://notahost:8090/erroring-1",
-		{
-			"url": "http://localhost:8090/timeout",
-			"timeout": 10
-		}
-	]
-}
