@@ -8,7 +8,8 @@ And no one tool can provide scan against all the WCAG standards.
 A combination of tools may help you achieve a good coverage of 40-50%.
 
 
-More info can be found at : https://pa11y.org/
+More info can be found at : 
+                            https://pa11y.org/
 
                             https://github.com/pa11y/pa11y-ci
 
